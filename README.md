@@ -1,6 +1,6 @@
 # Debian Base Image
 
-This Repo contains the build instructions for the [Debian](https://www.debian.org/releases/) base image (Buster, Bullseye and Bookworm). All images should inherit from this image.
+This Repo contains the build instructions for the [Debian](https://www.debian.org/releases/) base image (Bookworm and Trixie). All images should inherit from this image.
 
 ## Documentation
 
